@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 183, 49);
+    height: 100vh;
+    
+}
+
+.chiffre{
+    display: flex;
+    gap: 30px;
+}
+
+.btn-zero {
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: rgb(166, 230, 47);
+    font-size: 30px;
+
+}
+.btn-dix {
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: rgb(166, 230, 47);
+    font-size: 30px;
+
+
+}
+.btn-effectuer {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: rgb(230, 99, 47);
+    font-size: 20px;
+    border: 1px solid rgb(230, 99, 47);
+ 
+
+
+}
+.btn-changer{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: rgb(230, 99, 47);
+    font-size: 20px;
+    border: 1px solid rgb(230, 99, 47);
+ 
+
+
+}
